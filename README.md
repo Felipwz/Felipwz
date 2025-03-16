@@ -129,14 +129,6 @@ O que mais me motiva é transformar ideias em soluções reais e resolver proble
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Felipwz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
