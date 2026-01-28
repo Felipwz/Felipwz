@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Oi! Eu sou o Luiz Felipe, tenho 21 anos e sou do interior de São Paulo. Desde que me entendo por gente, sempre fui aquele curioso por tecnologia, pesquisando para descobrir como as coisas funcionam. Fiz o curso técnico em Desenvolvimento de Sistemas junto com o ensino médio na ETEC, e agora estou mergulhando ainda mais fundo na faculdade de Análise e Desenvolvimento de Sistemas na Unifaat.
+Oi! Eu sou o Luiz Felipe, tenho 21 anos e sou do interior de São Paulo. Desde que me entendo por gente, sempre fui aquele curioso por tecnologia, pesquisando para descobrir como as coisas funcionam. Fiz o curso técnico em Desenvolvimento de Sistemas junto com o ensino médio em uma escola técnica, e agora estou mergulhando ainda mais fundo na faculdade de Análise e Desenvolvimento de Sistemas.
 
 O que mais me motiva é transformar ideias em soluções reais e resolver problemas com código. Fora isso, eu adoro aprender coisas novas e sempre estou buscando maneiras de evoluir, tanto profissionalmente quanto pessoalmente.
 
